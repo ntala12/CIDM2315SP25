@@ -22,4 +22,4 @@
 - Upload the Homework5-Q3.cs file
 
 3/10/25
--Upload the Homework6.cs file
+- Upload the Homework6.cs file
