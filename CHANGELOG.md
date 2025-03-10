@@ -17,6 +17,9 @@
 - Upload the Homework4-Q2-2.cs file
 
 2/24/25
-- Upload the Homework5-Q1
-- Upload the Homework5-Q2
-- Upload the Homework5-Q3
+- Upload the Homework5-Q1.cs file
+- Upload the Homework5-Q2.cs file
+- Upload the Homework5-Q3.cs file
+
+3/10/25
+-Upload the Homework6.cs file
