@@ -25,7 +25,7 @@
 - Upload the Homework6.cs file
 
 3/24/25
--Upload the Homework7.cs file
+- Upload the Homework7.cs file
 
 3/31/25
--Upload the Homework8.cs file
+- Upload the Homework8.cs file
